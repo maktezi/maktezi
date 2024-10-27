@@ -1,5 +1,5 @@
 # 💫 About Me:
-⚡ Welcome to my GitHub profile! I am currently on an exciting journey to become a Full Stack Developer, immersing myself in the latest technologies and best practices in the field. My focus is on building robust, scalable, and user-friendly web applications.
+⚡ Welcome to my GitHub profile! I'm a Front-end Developer, I develop web applications, User Interfaces, and sometimes do some backend stuff as well. And immersing myself in the latest technologies and best practices in the field. My focus is on building robust, scalable, and user-friendly web applications.
 
 ## Tech Stack
 
