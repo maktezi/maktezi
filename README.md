@@ -1,5 +1,5 @@
-# 💫 About Me:
-⚡ Welcome to my GitHub profile! I'm a Front-end Developer, I develop web applications, User Interfaces, and sometimes do some backend stuff as well. And immersing myself in the latest technologies and best practices in the field. My focus is on building robust, scalable, and user-friendly web applications.
+# About Me:
+Welcome to my GitHub profile! I'm a Front-end Developer, I develop web applications, User Interfaces, and sometimes do some backend stuff as well. And immersing myself in the latest technologies and best practices in the field. My focus is on building robust, scalable, and user-friendly web applications.
 
 ## Tech Stack
 
@@ -36,7 +36,7 @@
 ![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white)
 ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
 ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white)
-# 📊 GitHub Stats:
+# GitHub Stats:
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
