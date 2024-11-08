@@ -1,4 +1,5 @@
 <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
+
 ### About Me:
 "I'm a front-end developer who occasionally dips into the back-end, all while trying to magically transform into a full-stack developer — one bug at a time!"
 
