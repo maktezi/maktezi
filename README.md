@@ -1,6 +1,5 @@
 ### About Me:
-"Front-end developer who occasionally dips into the back-end, all while trying to magically transform into a full-stack developer — one bug at a time!"
-
+"Front-end developer and sometimes working full-stack, tackling bugs one at a time!"
 ### Tech & Tools
 <p align="center">
     <img src="https://skillicons.dev/icons?i=html,css,js,ts,tailwindcss,vuejs,nuxtjs,react,materialui" />
