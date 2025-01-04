@@ -14,7 +14,3 @@ A web developer keen to learn and implement best practices.
 <div align="center">
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/maktezi/maktezi/refs/heads/main/github-user-contribution.svg" />
 </div>
-
-![](https://github-readme-streak-stats.herokuapp.com/?user=maktezi&theme=dark&hide_border=false)
-
-[![](https://visitcount.itsvg.in/api?id=maktezi&icon=0&color=0)](https://visitcount.itsvg.in)
