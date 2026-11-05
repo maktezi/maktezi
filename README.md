@@ -22,8 +22,8 @@ A dev. Building things for the web and beyond.
 
 ### Current Projects
 
-[BilRa](https://app.bilra.online/) — Business management platform.  
-[ATLAS](https://atlas.depedbiliran.org/) — Travel and leave management system.
+[BilRa](https://app.bilra.online/) - Business management platform.  
+[ATLAS](https://atlas.depedbiliran.org/) - Travel and leave management system.
 
 ### Portfolio
 
