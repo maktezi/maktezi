@@ -1,33 +1,30 @@
-### Hey, I'm Mark.
+### About
 
-Full-stack developer. I build things for the web and beyond.
+A dev. Building things for the web and beyond.
 
 ### Stack
 
-**Frontend**
-
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,vue,nuxt,react,tailwind,astro&theme=dark" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,vue,nuxt,react,tailwind,astro,materialui&perline=10" />
 </p>
 
-**Backend & Database**
-
-<p>
-  <img src="https://skillicons.dev/icons?i=php,laravel,nodejs,graphql,mysql,postgres,firebase,redis&theme=dark" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=php,laravel,nodejs,graphql,mysql,postgres,firebase,redis,docker,nginx&perline=10" />
 </p>
 
-**Tools & Environment**
-
-<p>
-  <img src="https://skillicons.dev/icons?i=apple,phpstorm,androidstudio,vscode,idea,git,github,docker,postman&theme=dark" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=apple,phpstorm,androidstudio,vscode,idea,git,github,postman,vercel,netlify&perline=10" />
 </p>
 
-**Deployment & Design**
-
-<p>
-  <img src="https://skillicons.dev/icons?i=vercel,netlify,nginx,githubactions,ps,pr,ae&theme=dark" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=githubactions,ps,pr,ae,wordpress&perline=5" />
 </p>
 
-### Elsewhere
+### Current Projects
 
-[Portfolio](https://mktz.vercel.app/)
+[BilRa](https://app.bilra.online/) — Business management platform.  
+[ATLAS](https://atlas.depedbiliran.org/) — Travel and leave management system.
+
+### Portfolio
+
+[mktz.vercel.app](https://mktz.vercel.app/)
