@@ -1,29 +1,33 @@
-### About Me
+### Hey, I'm Mark.
 
-A dev.
+Full-stack developer. I build things for the web and beyond.
 
-### Tech & Tools
+### Stack
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,tailwind,vue,nuxt,react,astro,materialui&perline=10" />
+**Frontend**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,vue,nuxt,react,tailwind,astro&theme=dark" />
 </p>
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=php,laravel,nodejs,graphql,mysql,postgres,firebase,docker,nginx&perline=9" />
+**Backend & Database**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=php,laravel,nodejs,graphql,mysql,postgres,firebase,redis&theme=dark" />
 </p>
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,githubactions,vercel,netlify,postman,vscode,phpstorm,idea&perline=9" />
+**Tools & Environment**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=apple,phpstorm,androidstudio,vscode,idea,git,github,docker,postman&theme=dark" />
 </p>
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=androidstudio,apple,linux,windows,ps,pr,ae,wordpress&perline=8" />
+**Deployment & Design**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=vercel,netlify,nginx,githubactions,ps,pr,ae&theme=dark" />
 </p>
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=swift,react&perline=2" />
-</p>
+### Elsewhere
 
-### Portfolio
-
-[mktz.vercel.app](https://mktz.vercel.app/)
+[Portfolio](https://mktz.vercel.app/)
