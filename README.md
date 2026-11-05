@@ -13,7 +13,7 @@ A dev. Building things for the web and beyond.
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=apple,phpstorm,androidstudio,vscode,idea,git,github,postman,vercel,netlify&perline=10" />
+  <img src="https://skillicons.dev/icons?i=apple,phpstorm,androidstudio,vscode,idea,git,github,postman,vercel,cloudflare&perline=10" />
 </p>
 
 <p align="center">
