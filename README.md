@@ -13,11 +13,15 @@ A dev.
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,githubactions,vercel,netlify,postman,vscode,idea,linux&perline=9" />
+  <img src="https://skillicons.dev/icons?i=git,github,githubactions,vercel,netlify,postman,vscode,phpstorm,idea&perline=9" />
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=ps,pr,ae,windows,wordpress&perline=5" />
+  <img src="https://skillicons.dev/icons?i=androidstudio,apple,linux,windows,ps,pr,ae,wordpress&perline=8" />
+</p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=swift,react&perline=2" />
 </p>
 
 ### Portfolio
