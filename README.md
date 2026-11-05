@@ -1,45 +1,25 @@
 ### About Me
-Full-Stack Developer specializing in Laravel, Vue/Nuxt, React, and GraphQL. Building scalable web applications, APIs, and real-time systems.
+
+A dev.
 
 ### Tech & Tools
 
-**Frontend**
-
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,tailwind,vue,nuxt,react,materialui,astro" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,tailwind,vue,nuxt,react,astro,materialui&perline=10" />
 </p>
 
-**Backend & Databases**
-
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=php,laravel,nodejs,graphql,mysql,postgres,firebase,wordpress" />
+  <img src="https://skillicons.dev/icons?i=php,laravel,nodejs,graphql,mysql,postgres,firebase,docker,nginx&perline=9" />
 </p>
 
-**DevOps & Deployment**
-
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=docker,nginx,git,github,githubactions,netlify,vercel,linux" />
+  <img src="https://skillicons.dev/icons?i=git,github,githubactions,vercel,netlify,postman,vscode,idea,linux&perline=9" />
 </p>
 
-**Development & Design Tools**
-
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=vscode,idea,postman,postman,ps,pr,ae,windows" />
+  <img src="https://skillicons.dev/icons?i=ps,pr,ae,windows,wordpress&perline=5" />
 </p>
-
-**Additional Technologies**
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=react,codepen,bash" />
-</p>
-
-- CodeIgniter 4
-- React Native / Expo
-- REST APIs
-- Laravel Herd
-- CI/CD
-- SaaS & Multi-Tenant Architecture
 
 ### Portfolio
 
-🌐 **[mktz.vercel.app](https://mktz.vercel.app/)**
+[mktz.vercel.app](https://mktz.vercel.app/)
